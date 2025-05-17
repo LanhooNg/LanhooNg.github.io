@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Lanhu Wu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Research in Computer Vision, Image Segmentation, Multi-modality, AI4Healthcare. "
+repository               : "LanhooNg/LanhooNg.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lanhu Wu"
   avatar           : "images/wlh-5.jpg"
-  bio              : "Dalian University of Technology"
+  bio              : "M.Sc. Graduate in Electronic Engineering from Dalian University of Technology"
   location         : "Dalian, China"
   employer         :
   pubmed           : 
