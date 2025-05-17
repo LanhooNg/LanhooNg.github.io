@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me
 
-Hello! I am Lanhu Wu (吴岚虎), a postgraduate student in Information and Communication Engineering from Dalian University of Technology (DUT), supervised by Prof. Yongri Piao and Prof. Huchuan Lu (IEEE Fellow) in IIAU-LAB. Previously, I received bachelor’s degree from School of Electric Engineering, Dalian University of Technology. In 2024, I had the privilege of serving as algorithm engineer at Mindray Bio-Medical Electronics Co., Ltd. in Shenzhen.
+Hello! I am Lanhu Wu (吴岚虎), a postgraduate in Information and Communication Engineering from Dalian University of Technology (DUT), supervised by Prof. Yongri Piao and Prof. Huchuan Lu (IEEE Fellow) in IIAU-LAB. Previously, I received bachelor’s degree from School of Electric Engineering, Dalian University of Technology. In 2024, I had the privilege of serving as algorithm engineer at Mindray Bio-Medical Electronics Co., Ltd. in Shenzhen.
 
 My research interest includes multimodal learning and medical image analysis. Currently I am seeking for a PhD position for 2026 spring/fall. If you are interested, please feel free to contact me!
 
