@@ -25,7 +25,7 @@ My research interest includes multimodal learning and medical image analysis. Cu
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 1 paper accepted in IEEE Transactions on Circuits and Systems for Video Technology. 
+- *2024.12*: &nbsp;🎉🎉 1 paper accepted in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
 - *2024.06*: &nbsp;🎉🎉 1 paper accepted in PRCV 2024. 
 
 # 📝 Publications 
