@@ -41,6 +41,9 @@ If you are interested, please feel free to contact me at [lanhoong0406@gmail.com
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/EBRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Edge-Guided Bidirectional-Attention Residual Network for Polyp Segmentation](https://link.springer.com/chapter/10.1007/978-981-97-8496-7_18#rightslink)
 
 **Lanhu Wu**, Miao Zhang, Yongri Piao, Zhiwei Li, Huchuan Lu
