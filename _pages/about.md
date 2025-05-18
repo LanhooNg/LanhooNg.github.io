@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 About Me
+# 🌟 About Me
 
 Hello! I am Lanhu Wu (吴岚虎), a postgraduate in Information and Communication Engineering from Dalian University of Technology (DUT), supervised by Prof. Yongri Piao and Prof. Huchuan Lu (IEEE Fellow) in IIAU-LAB. Previously, I received bachelor’s degree from School of Electric Engineering, Dalian University of Technology. In 2024, I had the privilege of serving as algorithm engineer at Mindray Bio-Medical Electronics Co., Ltd. in Shenzhen.
 
