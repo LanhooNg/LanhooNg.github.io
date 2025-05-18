@@ -31,7 +31,7 @@ If you are interested, please feel free to contact me at [lanhoong0406@gmail.com
 
 # 📜 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/framework_1' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/framework_1.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816601)
