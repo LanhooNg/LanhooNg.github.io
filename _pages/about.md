@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌟 About Me
 
-Hello! I am Lanhu Wu (吴岚虎). I graduated from the school of Information and Communication Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/) (DUT) with a master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Previously, I received the bachelor’s degree from School of Electric Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/). In 2024, I had the privilege of serving as algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
+Hello! I am Lanhu Wu (吴岚虎). I graduated from the school of Information and Communication Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/) (DUT) with a master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Previously, I received the bachelor’s degree from School of Electric Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/). Since July 2024, I have been serving as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
 
 My research interests include multimodal learning and medical image analysis. Currently I am seeking for **a PhD position for 2026 spring/fall**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
 
@@ -53,4 +53,4 @@ My research interests include multimodal learning and medical image analysis. Cu
 - *2016.09 - 2020.06*, B.Eng. in Electronic and Information Engineering at Dalian University of Technology. 
 
 # 💻 Working Experience
-- *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
+- *2024.07 - now*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
