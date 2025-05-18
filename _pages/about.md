@@ -28,7 +28,7 @@ My research interest includes multimodal learning and medical image analysis. Cu
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
 - *2024.06*: &nbsp;🎉🎉 1 paper accepted in PRCV 2024. 
 
-# 📝 Publications 
+# 📜 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +48,7 @@ My research interest includes multimodal learning and medical image analysis. Cu
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - 2024.06*, M.Sc. in Information and Communication Engineering at Dalian University of Technology. 
 - *2016.09 - 2020.06*, B.Eng. in Electronic and Information Engineering at Dalian University of Technology. 
 
