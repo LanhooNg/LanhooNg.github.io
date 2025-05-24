@@ -27,7 +27,8 @@ If you are interested, please feel free to contact me at [lanhoong0406@gmail.com
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
-- *2024.06*: &nbsp;🎉🎉 1 paper accepted in PRCV 2024. 
+- *2024.06*: &nbsp;🎉🎉 1 paper accepted in PRCV 2024.
+- *2023.02*: &nbsp;🎉🎉 1 paper accepted in Pattern Recognition and Artificial Intelligence.
 
 # 📜 Publications 
 
