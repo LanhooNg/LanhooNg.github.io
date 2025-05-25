@@ -64,7 +64,6 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 
 # 🎖️ Honors and Awards
 - *2021-2023*  Postgraduate Scholarship. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🎓 Educations
 - *2021.09 - 2024.06*, M.Sc. in Information and Communication Engineering at Dalian University of Technology. 
