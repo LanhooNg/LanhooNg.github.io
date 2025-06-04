@@ -21,14 +21,14 @@ redirect_from:
 
 Hello! I am Lanhu Wu (吴岚虎). I graduated from the school of Information and Communication Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/) (DUT) with a master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Previously, I received the bachelor’s degree from School of Electrical Engineering, [Dalian University of Technology](https://www.dlut.edu.cn/). Since July 2024, I have been serving as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
 
-My research interests include multimodal learning and medical image analysis. Currently I am seeking for **a PhD position for 2026 spring/fall**.  
+My research interests include computer vision and machine learning. Currently I am seeking for **a PhD position for 2026 spring/fall**.  
 If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 1 paper accepted in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
-- *2024.06*: &nbsp;🎉🎉 1 paper accepted in PRCV 2024.
-- *2023.02*: &nbsp;🎉🎉 1 paper accepted in Pattern Recognition and Artificial Intelligence.
+- *2024.12*: &nbsp;🎉🎉 1 paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
+- *2024.06*: &nbsp;🎉🎉 1 paper accepted by PRCV 2024.
+- *2023.02*: &nbsp;🎉🎉 1 paper accepted by Pattern Recognition and Artificial Intelligence.
 
 # 📜 Publications 
 
