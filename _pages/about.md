@@ -25,7 +25,7 @@ My research interests lie in computer vision, particularly in multimodal scene u
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 1 paper accepted by 33rd ACM International Conference on Multimedia.  
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted by ACM MM 2025.  
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
 - *2024.06*: &nbsp;🎉🎉 1 paper accepted by PRCV 2024.
 - *2023.02*: &nbsp;🎉🎉 1 paper accepted by Pattern Recognition and Artificial Intelligence.
