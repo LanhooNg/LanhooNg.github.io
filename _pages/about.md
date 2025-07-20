@@ -32,7 +32,7 @@ My research interests lie in computer vision, particularly in multimodal scene u
 
 # 📜 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/CTRCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/LEAF-Mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection]
