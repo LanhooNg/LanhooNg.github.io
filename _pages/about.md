@@ -35,7 +35,7 @@ My research interests lie in computer vision, particularly in multimodal scene u
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/LEAF-Mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection]
+[LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection](file:///C:/Users/wlh/Desktop/LEAF-Mamba/2025-04-15_revision/ACMMM_25_LanhuWu_RGBD_SOD.pdf)
 
 **Lanhu Wu**, Zilin Gao, Hao Fei, Mong-li Lee, Wynne Hsu
 
