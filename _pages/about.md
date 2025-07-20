@@ -37,7 +37,7 @@ My research interests lie in computer vision, particularly in multimodal scene u
 
 [LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection](my_papers/ACMMM_25_LanhuWu_RGBD_SOD.pdf)
 
-**Lanhu Wu**, Zilin Gao, Hao Fei, Mong-li Lee, Wynne Hsu
+**Lanhu Wu**, Zilin Gao, Hao Fei, Mong-Li Lee, Wynne Hsu
 
 Accepted to ACM International Conference on Multimedia (ACM MM 2025)
 
