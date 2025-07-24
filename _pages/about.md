@@ -82,8 +82,8 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 - *2021-2023*  Postgraduate Scholarship. 
 
 # 🎓 Educations
-- *2021.09 - 2024.06*, M.Sc. in Information and Communication Engineering at Dalian University of Technology. 
-- *2016.09 - 2020.06*, B.Eng. in Electronic and Information Engineering at Dalian University of Technology. 
+- *2021.09 - 2024.06*, M.Sc. in Electronic Information at Dalian University of Technology. 
+- *2016.09 - 2020.06*, B.Eng. in Electronic Information Engineering at Dalian University of Technology. 
 
 # 💻 Working Experience
 - *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
