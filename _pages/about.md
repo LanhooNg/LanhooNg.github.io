@@ -35,7 +35,7 @@ My research interests lie in computer vision, particularly in multimodal scene u
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/LEAF-Mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection](my_papers/LEAF-Mamba.pdf)
+[LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection](https://dl.acm.org/doi/pdf/10.1145/3746027.3754863)
 
 **Lanhu Wu**, Zilin Gao, Hao Fei, Mong-Li Lee, Wynne Hsu
 
@@ -47,7 +47,7 @@ Accepted to ACM International Conference on Multimedia (ACM MM 2025)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/CTRCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816601)
+[CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10816601)
 
 **Lanhu Wu**, Miao Zhang, Yongri Piao, Zhenyan Yao, Weibing Sun, Feng Tian, Huchuan Lu
 
