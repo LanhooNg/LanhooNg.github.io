@@ -71,7 +71,7 @@ Accepted to Proceedings of the Chinese Conference on Pattern Recognition and Com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/P3Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P$^3$Net: Progressive and Periodic Perturbation for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2505.15861)
+[P$^3$Net: Progressive and Periodic Perturbation for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2505.15861)
 
 Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huchuan Lu
 
