@@ -87,3 +87,4 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 
 # 💻 Working Experience
 - *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
+- *2025.11 - now*, National University of Singapore, Singapore.
