@@ -87,5 +87,5 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 - *2016.09 - 2020.06*, B.Eng. in Electronic Information Engineering at Dalian University of Technology. 
 
 # 💻 Working Experience
-- *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
 - *2025.11 - now*, National University of Singapore, Singapore.
+- *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
