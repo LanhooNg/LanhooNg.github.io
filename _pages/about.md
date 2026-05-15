@@ -19,12 +19,13 @@ redirect_from:
 
 # 🌟 About Me
 
-Hello! I am Lanhu Wu (吴岚虎). I graduated from the School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with a master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Previously, I received the bachelor’s degree from the Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
+Hello! I am Lanhu Wu (吴岚虎). I graduated from the School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with a master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Previously, I received the bachelor’s degree from the Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen. From 2025 to 2026, I worked as a research assistant at the Centre for Trusted Internet Community, National University of Singapore in Singapore, supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN).
 
-My research interests lie in computer vision, particularly in multimodal scene understanding and medical image analysis. Currently I am seeking for **a PhD position for 2026 fall**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
+My research interests lie in computer vision, particularly in multimodal learning, vision-language model and medical image analysis. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 I received a PhD offer from School of Computing, National University of Singapore.
 - *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026.
 - *2025.07*: &nbsp;🎉🎉 1 paper accepted to ACM International Conference on Multimedia (ACM MM 2025, **Oral**).  
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). 
