@@ -23,7 +23,7 @@ Hello! I am Lanhu Wu (吴岚虎), an incoming Ph.D. student at the School of Com
 
 Currently, I am working as a research assistant at the Center of Trusted Internet Community (CTIC), [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN).
 
-My research interests lie in computer vision, particularly in multimodal learning, vision-language model and medical image analysis. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
+My research interests lie in **computer vision**, particularly in **multimodal learning**, **vision-language model** and **medical image analysis**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
 
 
 # 🔥 News
