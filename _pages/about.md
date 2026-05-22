@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌟 About Me
 
-Hello! I am Lanhu Wu (吴岚虎), an incoming Ph.D. student at School of Computing, [National University of Singapore](https://nus.edu.sg/) (NUS). I am now working as a research assistant at the Center of Trusted Internet Community (CTIC), [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN).
+Hello! I am Lanhu Wu (吴岚虎), an incoming Ph.D. student at School of Computing, [National University of Singapore](https://nus.edu.sg/) (NUS). I am now working as a research assistant at Center of Trusted Internet Community (CTIC), [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN).
 
 Previously, I graduated from School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Before that, I received the bachelor’s degree from Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
 
