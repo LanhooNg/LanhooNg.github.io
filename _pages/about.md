@@ -19,11 +19,9 @@ redirect_from:
 
 # 🌟 About Me
 
-Hello! I am Lanhu Wu (吴岚虎), an incoming Ph.D. student at School of Computing, [National University of Singapore](https://nus.edu.sg/) (NUS). I am now working as a research assistant at Center of Trusted Internet Community (CTIC), [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN).
+Hello! I am Lanhu Wu (吴岚虎), a first-year Ph.D. student at School of Computing, [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Prof. [Mong-Li Lee](https://scholar.google.com/citations?user=_xFTK8wAAAAJ&hl=zh-CN) and Prof. [Wynne Hsu](https://scholar.google.com/citations?user=ljyBjv8AAAAJ&hl=zh-CN). My research interests lie in **computer vision**, particularly in **multimodal learning**, **vision-language model** and **medical image analysis**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
 
-Previously, I graduated from School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Before that, I received the bachelor’s degree from Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
-
-My research interests lie in **computer vision**, particularly in **multimodal learning**, **vision-language model** and **medical image analysis**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
+Previously, I graduated from School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) (IEEE Fellow) from IIAU-LAB. Before that, I received the bachelor’s degree from Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen. From 2025 to 2026, I worked as a research assistant at Center of Trusted Internet Community (CTIC), [National University of Singapore](https://nus.edu.sg/) (NUS).
 
 
 # 🔥 News
@@ -90,5 +88,5 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 - *2016.09 - 2020.06*, B.Eng. in Electronic Information Engineering at Dalian University of Technology. 
 
 # 💻 Working Experience
-- *2025.11 - now*, National University of Singapore, Singapore.
+- *2025.11 - 2026.8*, National University of Singapore, Singapore.
 - *2024.07 - 2025.01*, Mindray Bio-Medical Electronics Co., Ltd., Shenzhen, China.
