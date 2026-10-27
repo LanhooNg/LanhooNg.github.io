@@ -86,6 +86,7 @@ Zhenyan Yao, Miao Zhang, **Lanhu Wu**, Yongri Piao, Feng Tian, Weibing Sun, Huch
 - *2021-2023*  Postgraduate Scholarship. 
 
 # 🎓 Educations
+- *2026.08 - Now*, Ph.D. student in Computer Science at National University of Singapore.
 - *2021.09 - 2024.06*, M.Sc. in Electronic Information at Dalian University of Technology. 
 - *2016.09 - 2020.06*, B.Eng. in Electronic Information Engineering at Dalian University of Technology. 
 
