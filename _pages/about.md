@@ -23,7 +23,7 @@ Hello! I am Lanhu Wu (吴岚虎), a first-year Ph.D. student at School of Comput
 
 Previously, I graduated from School of Information and Communication Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/) (DUT) with master's degree, supervised by Prof. [Yongri Piao](https://scholar.google.com/citations?user=iQ1oyrgAAAAJ&hl=zh-CN) and Prof. [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN) from IIAU-LAB. Before that, I received the bachelor’s degree from Faculty of Electronic Information and Electrical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/). In 2024, I served as an algorithm engineer at [Mindray Bio-Medical Electronics Co., Ltd.](https://www.mindray.com/en) in Shenzhen.
 
-My research interests lie in **computer vision**, particularly in **multimodal learning**, **vision-language model** and **medical image analysis**. If you are interested, please feel free to contact me at [lanhoong0406@gmail.com](mailto:lanhoong0406@gmail.com).
+My research interests lie in **computer vision**, particularly in **multimodal learning**, **vision-language model** and **medical image analysis**. If you are interested in my work, please feel free to contact me at [wulanhu@u.nus.edu](mailto:wulanhu@u.nus.edu).
 
 
 # 🔥 News
